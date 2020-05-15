@@ -51,4 +51,4 @@ int main() {
 				cout << q.back() << '\n';
 		}
 	}
-}s
+}
