@@ -1,5 +1,5 @@
 # Algorithm
-Study Algorithm in C++
+Study Algorithm in JAVA
 
 ## Configuration
 - TimeComplexity
