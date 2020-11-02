@@ -11,3 +11,6 @@ Study Algorithm
 - CountingSort
 - Queue
 - Deque
+- DFS-BFS
+- SequentialSearch
+- BinarySearch
