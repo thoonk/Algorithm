@@ -5,12 +5,22 @@ Study Algorithm
 - TimeComplexity
 - Stack(Array)
 - Stack(LinkedList)
-- InsertSort
-- MergeSort
-- BubbleSort
-- CountingSort
+- Sorting
+  - InsertSort
+  - SelectionSort
+  - MergeSort
+  - BubbleSort
+  - CountingSort
+  - QuickSort
+  - TopologySort
 - Queue
 - Deque
 - DFS-BFS
 - SequentialSearch
 - BinarySearch
+- DynamicProgramming
+- ShortestPath
+  - Dijkstra (PriorityQueue)
+  - Floyd-Warshall
+- DisJoint
+  - Kruskal
