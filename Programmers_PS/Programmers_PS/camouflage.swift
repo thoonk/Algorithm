@@ -16,5 +16,5 @@ for i in clothes {
     let value = dailyClothes[key] ?? 1
     dailyClothes[key] = value + 1
 }
-
+// 아무것도 입지 않는 경우 제외
 print(dailyClothes.reduce(1) {$0 * $1.value } - 1)
