@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		087E11A4256F916600DFE1A6 /* gymClothes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 087E11A3256F916600DFE1A6 /* gymClothes.swift */; };
+		081F3A432573C820007D6C17 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 081F3A422573C820007D6C17 /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -23,6 +23,10 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		081F3A3D257394C7007D6C17 /* parenConversion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = parenConversion.swift; sourceTree = "<group>"; };
+		081F3A422573C820007D6C17 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		0841538825711A550054A0A3 /* makeBigNum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = makeBigNum.swift; sourceTree = "<group>"; };
+		0841538E2571363D0054A0A3 /* joyStick.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = joyStick.swift; path = Greedy/joyStick.swift; sourceTree = "<group>"; };
 		086C04DA256BF9DD00E91DEB /* biggestNum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = biggestNum.swift; sourceTree = "<group>"; };
 		087BA52E256E103000C1F113 /* findPrime.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = findPrime.swift; sourceTree = "<group>"; };
 		087BA532256E28F200C1F113 /* carpet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = carpet.swift; sourceTree = "<group>"; };
@@ -86,6 +90,7 @@
 		08EFBCD5256FF9000039C9D1 /* Greedy */ = {
 			isa = PBXGroup;
 			children = (
+				0841538825711A550054A0A3 /* makeBigNum.swift */,
 				087E11A3256F916600DFE1A6 /* gymClothes.swift */,
 			);
 			path = Greedy;
@@ -110,6 +115,9 @@
 		08F5C3C62568F92A00DBCDE6 /* Programmers */ = {
 			isa = PBXGroup;
 			children = (
+				0841538E2571363D0054A0A3 /* joyStick.swift */,
+				081F3A3D257394C7007D6C17 /* parenConversion.swift */,
+				081F3A422573C820007D6C17 /* main.swift */,
 				08EFBCD5256FF9000039C9D1 /* Greedy */,
 				08BAC773256D439F00663265 /* Hash */,
 				08BAC776256D43B900663265 /* Stack-Queue */,
@@ -178,7 +186,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				087E11A4256F916600DFE1A6 /* gymClothes.swift in Sources */,
+				081F3A432573C820007D6C17 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
