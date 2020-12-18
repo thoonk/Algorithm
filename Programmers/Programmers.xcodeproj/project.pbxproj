@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0810020A2583656E002F8D39 /* travelRoute.swift in Sources */ = {isa = PBXBuildFile; fileRef = 081002092583656E002F8D39 /* travelRoute.swift */; };
+		08CB1ACC258C8F940085A0E7 /* truckPassingBridge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08CB1ACB258C8F940085A0E7 /* truckPassingBridge.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -37,6 +37,7 @@
 		087E11A3256F916600DFE1A6 /* gymClothes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gymClothes.swift; sourceTree = "<group>"; };
 		08BAC777256D470F00663265 /* h-index.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "h-index.swift"; sourceTree = "<group>"; };
 		08BAC77D256D4FCB00663265 /* mockTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mockTest.swift; sourceTree = "<group>"; };
+		08CB1ACB258C8F940085A0E7 /* truckPassingBridge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = truckPassingBridge.swift; sourceTree = "<group>"; };
 		08DB748D256A7BFB008725D7 /* diskController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = diskController.swift; sourceTree = "<group>"; };
 		08DB7491256AA807008725D7 /* k-thNum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "k-thNum.swift"; sourceTree = "<group>"; };
 		08F5C3C42568F92A00DBCDE6 /* Programmers */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Programmers; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -88,6 +89,7 @@
 		08BAC776256D43B900663265 /* Stack-Queue */ = {
 			isa = PBXGroup;
 			children = (
+				08CB1ACB258C8F940085A0E7 /* truckPassingBridge.swift */,
 				08F5C3D02569009700DBCDE6 /* functionDev.swift */,
 			);
 			path = "Stack-Queue";
@@ -96,9 +98,9 @@
 		08BAC782256D579500663265 /* FullSearch(BF) */ = {
 			isa = PBXGroup;
 			children = (
-				087BA532256E28F200C1F113 /* carpet.swift */,
 				087BA52E256E103000C1F113 /* findPrime.swift */,
 				08BAC77D256D4FCB00663265 /* mockTest.swift */,
+				087BA532256E28F200C1F113 /* carpet.swift */,
 			);
 			path = "FullSearch(BF)";
 			sourceTree = "<group>";
@@ -131,6 +133,7 @@
 		08F5C3C62568F92A00DBCDE6 /* Programmers */ = {
 			isa = PBXGroup;
 			children = (
+				08738F8E25820249007D1BA5 /* DFS-BFS */,
 				0841538E2571363D0054A0A3 /* joyStick.swift */,
 				081F3A3D257394C7007D6C17 /* parenConversion.swift */,
 				08EFBCD5256FF9000039C9D1 /* Greedy */,
@@ -139,7 +142,6 @@
 				08DB748D256A7BFB008725D7 /* diskController.swift */,
 				08BAC774256D43B000663265 /* Sorting */,
 				08BAC782256D579500663265 /* FullSearch(BF) */,
-				08738F8E25820249007D1BA5 /* DFS-BFS */,
 			);
 			path = Programmers;
 			sourceTree = "<group>";
@@ -202,7 +204,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0810020A2583656E002F8D39 /* travelRoute.swift in Sources */,
+				08CB1ACC258C8F940085A0E7 /* truckPassingBridge.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
