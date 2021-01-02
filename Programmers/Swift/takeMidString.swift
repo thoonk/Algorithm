@@ -3,7 +3,7 @@
 //  Programmers
 //
 //  Created by 김태훈 on 2020/12/29.
-//  가운데 글자 가져오기
+//  가운데 글자 가져오기 Level1
 
 import Foundation
 

@@ -3,7 +3,7 @@
 //  Programmers
 //
 //  Created by 김태훈 on 2020/12/29.
-//  두 정수 사이의 합
+//  두 정수 사이의 합 Level1
 
 import Foundation
 

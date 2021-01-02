@@ -3,7 +3,7 @@
 //  Programmers
 //
 //  Created by 김태훈 on 2021/01/01.
-//  문자열 내 p와 y의 개수
+//  문자열 내 p와 y의 개수 Level1
 
 import Foundation
 

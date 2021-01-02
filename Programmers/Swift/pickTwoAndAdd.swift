@@ -3,7 +3,7 @@
 //  Programmers
 //
 //  Created by 김태훈 on 2020/12/18.
-//
+//  두 개 뽑아서 더하기 Level1
 
 import Foundation
 

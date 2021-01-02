@@ -3,7 +3,7 @@
 //  Programmers
 //
 //  Created by 김태훈 on 2021/01/01.
-//  3진법 뒤집기
+//  3진법 뒤집기 Level1
 
 import Foundation
 
