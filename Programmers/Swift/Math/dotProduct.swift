@@ -3,7 +3,7 @@
 //  Programmers
 //
 //  Created by 김태훈 on 2021/01/04.
-//  내적
+//  내적 Level1
 
 import Foundation
 

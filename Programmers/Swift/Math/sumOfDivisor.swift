@@ -3,7 +3,7 @@
 //  Programmers
 //
 //  Created by 김태훈 on 2021/01/04.
-//  약수의 합
+//  약수의 합 Level1
 
 import Foundation
 
@@ -20,7 +20,6 @@ func solution(_ n:Int) -> Int {
             }
         }
     }
-    
     return result.reduce(0,+)
 }
 
