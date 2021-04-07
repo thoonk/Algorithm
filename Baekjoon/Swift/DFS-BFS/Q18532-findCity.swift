@@ -4,7 +4,6 @@
 //
 //  Created by 김태훈 on 2020/11/20.
 //  Q18532 특정 거리의 도시 찾기 (BFS)
-
 import Foundation
 
 let input = readLine()!.split(separator: " ").map {Int(String($0))!}

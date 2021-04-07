@@ -4,7 +4,6 @@
 //
 //  Created by 김태훈 on 2020/12/01.
 //  14502 연구소 (완전탐색, DFS)
-
 import Foundation
 
 func solution() {
@@ -89,5 +88,3 @@ func solution() {
 }
 
 solution()
-
-

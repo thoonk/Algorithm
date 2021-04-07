@@ -4,7 +4,6 @@
 //
 //  Created by 김태훈 on 2020/12/17.
 //  Q10026 적록색약 DFS
-
 import Foundation
 
 let n = Int(readLine()!)!
