@@ -57,10 +57,6 @@ for _ in 0 ..< t {
         .split(separator: ",")
         .map { Int(String($0))! }
     
-    if n == 0 {
-        nums = []
-    }
-    
     print(operateAC(p, n, &nums))
 }
 
