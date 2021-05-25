@@ -8,34 +8,25 @@
 let nm = readLine()!.split(separator: " ").map { Int(String($0))! }
 let n = nm[0]
 let m = nm[1]
-
-var nums = readLine()!.split(separator: " ").map { Int(String($0))! }
-var check = [Bool](repeating: false, count: nums.count)
-var output = [Int]()
-
-nums.sort()
-dfs(0)
+var nums = readLine()!.split(separator: " ").map { Int(String($0))! }.sorted()
+var arr = [String]()
+var check = [Bool](repeating: false, count: n)
 
 func dfs(_ cnt: Int) {
     if cnt == m {
-        var line = 0
-        output.forEach {
-            print($0, terminator: " ")
-            line += 1
-            if line % m == 0 {
-                print()
-            }
-        }
+        print(arr.joined(separator: " "))
         return
     }
     
     for i in 0 ..< n {
         if check[i] == false {
             check[i] = true
-            output.append(nums[i])
+            arr.append(String(nums[i]))
             dfs(cnt+1)
-            output.removeLast()
             check[i] = false
+            arr.popLast()
         }
     }
 }
+dfs(0)
+
