@@ -5,42 +5,43 @@
 //  Created by 김태훈 on 2020/12/23.
 //  1697 숨바꼭질 BFS
 
-import Foundation
-
-let nk = readLine()!.split(separator: " ").map {Int(String($0))!}
+let nk = readLine()!.split(separator: " ").map { Int(String($0))! }
 let n = nk[0]
 let k = nk[1]
-
 let size = 100001
-var visited = Array(repeating: 0, count: size)
+var check = [Int](repeating: 0, count: size)
 
-func bfs() -> Int {
-    
+func bfs() {
     var q = [Int]()
     q.append(n)
-    visited[n] = 1
+    check[n] = 1
     
-    while !q.isEmpty {
-        let x = q.removeFirst()
+    var index = 0
+    while index < q.count {
+        let x = q[index]
+        index += 1
         
+        // k 찾았을 때
         if x == k {
-            return visited[x]-1
+            print(check[x] - 1)
+            return
         }
-        
-        if 0 <= x-1, visited[x-1]==0 {
-            visited[x-1] = visited[x]+1
+        // x - 1일 때
+        if 0 <= x-1 && check[x-1] == 0 {
             q.append(x-1)
+            check[x-1] = check[x] + 1
         }
-        if x+1 < size, visited[x+1]==0 {
-            visited[x+1] = visited[x]+1
+        // x + 1일 때
+        if x+1 < size && check[x+1] == 0 {
             q.append(x+1)
+            check[x+1] = check[x] + 1
         }
-        if x*2 < size, visited[x*2]==0 {
-            visited[x*2] = visited[x]+1
+        // x * 2일 때
+        if x*2 < size && check[x*2] == 0 {
             q.append(x*2)
+            check[x*2] = check[x] + 1
         }
     }
-    return -1
 }
+bfs()
 
-print(bfs())
