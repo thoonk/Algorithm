@@ -7,25 +7,18 @@
 
 import Foundation
 
-var nums = readLine()!.components(separatedBy: " ").map {Int($0)!}
-print(nums)
-
 func solution(_ s:String) -> String {
-    var result = [String]()
-    let s = s.components(separatedBy: " ")
-    
-    for i in s {
+    var res = [String]()
+    let arr = s.split(separator: " ", omittingEmptySubsequences: false).map { String($0) }
+    // let arr = s.components(separatedBy: " ")
+    for str in arr {
         var temp = ""
-        for (j, k) in i.enumerated() {
-            if j%2 == 0 {
-                temp += k.uppercased()
-            } else  {
-                temp += k.lowercased()
-            }
+        for (j, c) in str.enumerated() {
+            temp.append(j % 2 == 0 ? c.uppercased() : c.lowercased())
         }
-        result.append(temp)
+        res.append(temp)
     }
-    return result.joined(separator: " ")
+    return res.joined(separator: " ")
 }
-print(solution("try hello world"))
 
+print(solution("try hello  world"))
