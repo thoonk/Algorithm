@@ -265,6 +265,7 @@
 		08EF2AD125DEA4EA005F44B5 /* Q2606-virus.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q2606-virus.swift"; sourceTree = "<group>"; };
 		08EF6E382608E357001D4420 /* Q10773-zero.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q10773-zero.swift"; sourceTree = "<group>"; };
 		08F74AF4267386EA00941699 /* Q15903.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q15903.swift; sourceTree = "<group>"; };
+		08F9535B28902572004FFF2E /* Q1789-sumOfNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q1789-sumOfNumbers.swift"; sourceTree = "<group>"; };
 		08FCBF30279859CD009BF770 /* Q1654-CutLANCable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q1654-CutLANCable.swift"; sourceTree = "<group>"; };
 		08FE07482626E81200C232ED /* Q11726-2xnTiling.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q11726-2xnTiling.swift"; sourceTree = "<group>"; };
 		08FE07522627012C00C232ED /* Q18870-CoordCompression.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q18870-CoordCompression.swift"; sourceTree = "<group>"; };
@@ -343,6 +344,7 @@
 				08B299C3274930E500D17D79 /* Q11050-BinomialCoefficient1.swift */,
 				0834480427BA9E410007166E /* Q2407-combination(BInt).swift */,
 				0875A18D27BBEB9E0035BAC8 /* Q1676-numOfFactorial0.swift */,
+				08F9535B28902572004FFF2E /* Q1789-sumOfNumbers.swift */,
 			);
 			path = Math;
 			sourceTree = "<group>";
