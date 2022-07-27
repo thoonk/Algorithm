@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		08480A5D264A6A9E00E8F9FD /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08480A5C264A6A9E00E8F9FD /* main.swift */; };
+		08F9536028918084004FFF2E /* Q2525-ovenClock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08F9535F28918084004FFF2E /* Q2525-ovenClock.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -267,6 +268,7 @@
 		08F74AF4267386EA00941699 /* Q15903.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q15903.swift; sourceTree = "<group>"; };
 		08F9535B28902572004FFF2E /* Q1789-sumOfNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q1789-sumOfNumbers.swift"; sourceTree = "<group>"; };
 		08F9535D28916FF1004FFF2E /* Q2163-cutChocolate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q2163-cutChocolate.swift"; sourceTree = "<group>"; };
+		08F9535F28918084004FFF2E /* Q2525-ovenClock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q2525-ovenClock.swift"; sourceTree = "<group>"; };
 		08FCBF30279859CD009BF770 /* Q1654-CutLANCable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q1654-CutLANCable.swift"; sourceTree = "<group>"; };
 		08FE07482626E81200C232ED /* Q11726-2xnTiling.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q11726-2xnTiling.swift"; sourceTree = "<group>"; };
 		08FE07522627012C00C232ED /* Q18870-CoordCompression.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q18870-CoordCompression.swift"; sourceTree = "<group>"; };
@@ -347,6 +349,7 @@
 				0875A18D27BBEB9E0035BAC8 /* Q1676-numOfFactorial0.swift */,
 				08F9535B28902572004FFF2E /* Q1789-sumOfNumbers.swift */,
 				08F9535D28916FF1004FFF2E /* Q2163-cutChocolate.swift */,
+				08F9535F28918084004FFF2E /* Q2525-ovenClock.swift */,
 			);
 			path = Math;
 			sourceTree = "<group>";
@@ -802,6 +805,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				08F9536028918084004FFF2E /* Q2525-ovenClock.swift in Sources */,
 				08480A5D264A6A9E00E8F9FD /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
