@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		08480A5D264A6A9E00E8F9FD /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08480A5C264A6A9E00E8F9FD /* main.swift */; };
-		08F9536028918084004FFF2E /* Q2525-ovenClock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08F9535F28918084004FFF2E /* Q2525-ovenClock.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -197,6 +196,7 @@
 		08A43A6B2643C60F00589BFA /* Q9093.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q9093.swift; sourceTree = "<group>"; };
 		08A4E452262464B8008290CB /* Q2579-climbStairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q2579-climbStairs.swift"; sourceTree = "<group>"; };
 		08A5E3C426576A2A00889F46 /* Q4889.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q4889.swift; sourceTree = "<group>"; };
+		08A698A82892D5EF00D37675 /* Q2530-AIClock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q2530-AIClock.swift"; sourceTree = "<group>"; };
 		08A79FFE26201E890019BD7D /* Heap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Heap.swift; sourceTree = "<group>"; };
 		08A7A00226202B7C0019BD7D /* Q11279-maxHeap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q11279-maxHeap.swift"; sourceTree = "<group>"; };
 		08A7A008262035120019BD7D /* Q1927-minHeap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q1927-minHeap.swift"; sourceTree = "<group>"; };
@@ -350,6 +350,7 @@
 				08F9535B28902572004FFF2E /* Q1789-sumOfNumbers.swift */,
 				08F9535D28916FF1004FFF2E /* Q2163-cutChocolate.swift */,
 				08F9535F28918084004FFF2E /* Q2525-ovenClock.swift */,
+				08A698A82892D5EF00D37675 /* Q2530-AIClock.swift */,
 			);
 			path = Math;
 			sourceTree = "<group>";
@@ -805,7 +806,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				08F9536028918084004FFF2E /* Q2525-ovenClock.swift in Sources */,
 				08480A5D264A6A9E00E8F9FD /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
