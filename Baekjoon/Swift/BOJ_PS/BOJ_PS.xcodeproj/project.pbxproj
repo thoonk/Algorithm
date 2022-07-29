@@ -147,6 +147,7 @@
 		0877A384263BCA7900B824CB /* Q1722-orderOfPermutations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q1722-orderOfPermutations.swift"; sourceTree = "<group>"; };
 		0877EE872723E6BC0049CD0D /* Q3986.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q3986.swift; sourceTree = "<group>"; };
 		0877EE892725278F0049CD0D /* Q1992.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q1992.swift; sourceTree = "<group>"; };
+		0879104D28942A5400BBD558 /* Q2914-copyright.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q2914-copyright.swift"; sourceTree = "<group>"; };
 		08795E922632AD6D00D5817A /* Q15486-retire2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q15486-retire2.swift"; sourceTree = "<group>"; };
 		08795E962632F29E00D5817A /* Q1254-makePalindrome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q1254-makePalindrome.swift"; sourceTree = "<group>"; };
 		08795E9E2633C85C00D5817A /* Q9375-fashionKing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q9375-fashionKing.swift"; sourceTree = "<group>"; };
@@ -351,6 +352,7 @@
 				08F9535D28916FF1004FFF2E /* Q2163-cutChocolate.swift */,
 				08F9535F28918084004FFF2E /* Q2525-ovenClock.swift */,
 				08A698A82892D5EF00D37675 /* Q2530-AIClock.swift */,
+				0879104D28942A5400BBD558 /* Q2914-copyright.swift */,
 			);
 			path = Math;
 			sourceTree = "<group>";
