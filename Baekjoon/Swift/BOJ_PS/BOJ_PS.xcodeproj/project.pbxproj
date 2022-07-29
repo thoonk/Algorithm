@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		08480A5D264A6A9E00E8F9FD /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08480A5C264A6A9E00E8F9FD /* main.swift */; };
+		087910502894333000BBD558 /* Q5355-MarsMath.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0879104F2894333000BBD558 /* Q5355-MarsMath.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -148,6 +149,7 @@
 		0877EE872723E6BC0049CD0D /* Q3986.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q3986.swift; sourceTree = "<group>"; };
 		0877EE892725278F0049CD0D /* Q1992.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q1992.swift; sourceTree = "<group>"; };
 		0879104D28942A5400BBD558 /* Q2914-copyright.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q2914-copyright.swift"; sourceTree = "<group>"; };
+		0879104F2894333000BBD558 /* Q5355-MarsMath.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q5355-MarsMath.swift"; sourceTree = "<group>"; };
 		08795E922632AD6D00D5817A /* Q15486-retire2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q15486-retire2.swift"; sourceTree = "<group>"; };
 		08795E962632F29E00D5817A /* Q1254-makePalindrome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q1254-makePalindrome.swift"; sourceTree = "<group>"; };
 		08795E9E2633C85C00D5817A /* Q9375-fashionKing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q9375-fashionKing.swift"; sourceTree = "<group>"; };
@@ -353,6 +355,7 @@
 				08F9535F28918084004FFF2E /* Q2525-ovenClock.swift */,
 				08A698A82892D5EF00D37675 /* Q2530-AIClock.swift */,
 				0879104D28942A5400BBD558 /* Q2914-copyright.swift */,
+				0879104F2894333000BBD558 /* Q5355-MarsMath.swift */,
 			);
 			path = Math;
 			sourceTree = "<group>";
@@ -808,6 +811,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				087910502894333000BBD558 /* Q5355-MarsMath.swift in Sources */,
 				08480A5D264A6A9E00E8F9FD /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
