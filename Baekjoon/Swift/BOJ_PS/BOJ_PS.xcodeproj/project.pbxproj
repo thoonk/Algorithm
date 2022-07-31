@@ -223,6 +223,7 @@
 		08B43BC928965DE000D6091B /* Q2174-robotSimulation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Q2174-robotSimulation.swift"; sourceTree = "<group>"; };
 		08B43BCB28965E1600D6091B /* Q10156-snack.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Q10156-snack.swift"; sourceTree = "<group>"; };
 		08B43BD32896615D00D6091B /* Q3009-fourthPoint.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q3009-fourthPoint.swift"; sourceTree = "<group>"; };
+		08B43BD528966EB100D6091B /* Q2476-diceGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q2476-diceGame.swift"; sourceTree = "<group>"; };
 		08B72EC826256D4300EDD3C7 /* Q7662-DualPriorityQueue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q7662-DualPriorityQueue.swift"; sourceTree = "<group>"; };
 		08B72ECE2625E2AE00EDD3C7 /* Q11723-Set.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q11723-Set.swift"; sourceTree = "<group>"; };
 		08BA55E8264D520F00F07CA6 /* Queue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Queue.swift; sourceTree = "<group>"; };
@@ -423,6 +424,7 @@
 				087EE66428772AFB0065BEE8 /* Q14891-Gear.swift */,
 				0806D791288BDEEC00D4FF87 /* Q3085-CandyGame.swift */,
 				08B43BD32896615D00D6091B /* Q3009-fourthPoint.swift */,
+				08B43BD528966EB100D6091B /* Q2476-diceGame.swift */,
 			);
 			path = Implementation;
 			sourceTree = "<group>";
