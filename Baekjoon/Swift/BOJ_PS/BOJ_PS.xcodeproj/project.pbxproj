@@ -27,7 +27,6 @@
 		08018879269C72A300822D0B /* Q11501.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q11501.swift; sourceTree = "<group>"; };
 		08048EF92639889C00EA6AB4 /* Q5639-binarySearchTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q5639-binarySearchTree.swift"; sourceTree = "<group>"; };
 		08069B2F26513862003ED4A1 /* Q6198.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q6198.swift; sourceTree = "<group>"; };
-		0806D78F2889895900D4FF87 /* Q2174-robotSimulation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q2174-robotSimulation.swift"; sourceTree = "<group>"; };
 		0806D791288BDEEC00D4FF87 /* Q3085-CandyGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q3085-CandyGame.swift"; sourceTree = "<group>"; };
 		0808EB1726A9A6050097DD56 /* Q1182.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q1182.swift; sourceTree = "<group>"; };
 		080911B228523F2B00EB731E /* Q5525-IOIOI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q5525-IOIOI.swift"; sourceTree = "<group>"; };
@@ -223,6 +222,7 @@
 		08B43BC728965DC800D6091B /* Q1789-sumOfNumbers.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Q1789-sumOfNumbers.swift"; sourceTree = "<group>"; };
 		08B43BC928965DE000D6091B /* Q2174-robotSimulation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Q2174-robotSimulation.swift"; sourceTree = "<group>"; };
 		08B43BCB28965E1600D6091B /* Q10156-snack.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Q10156-snack.swift"; sourceTree = "<group>"; };
+		08B43BD32896615D00D6091B /* Q3009-fourthPoint.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q3009-fourthPoint.swift"; sourceTree = "<group>"; };
 		08B72EC826256D4300EDD3C7 /* Q7662-DualPriorityQueue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q7662-DualPriorityQueue.swift"; sourceTree = "<group>"; };
 		08B72ECE2625E2AE00EDD3C7 /* Q11723-Set.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q11723-Set.swift"; sourceTree = "<group>"; };
 		08BA55E8264D520F00F07CA6 /* Queue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Queue.swift; sourceTree = "<group>"; };
@@ -422,6 +422,7 @@
 				08B299C127492BD100D17D79 /* Q1259-PalindromeNum.swift */,
 				087EE66428772AFB0065BEE8 /* Q14891-Gear.swift */,
 				0806D791288BDEEC00D4FF87 /* Q3085-CandyGame.swift */,
+				08B43BD32896615D00D6091B /* Q3009-fourthPoint.swift */,
 			);
 			path = Implementation;
 			sourceTree = "<group>";
@@ -481,7 +482,6 @@
 				08CB82F5258B399300AA10BD /* Q1987-alphabet.swift */,
 				084C21BF262C788900567812 /* Q2407-Combination.swift */,
 				084C21C4262C866B00567812 /* Q1325-efficientHacking.swift */,
-				0806D78F2889895900D4FF87 /* Q2174-robotSimulation.swift */,
 			);
 			path = NotSolved;
 			sourceTree = "<group>";
