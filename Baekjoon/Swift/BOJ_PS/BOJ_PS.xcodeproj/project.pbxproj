@@ -147,11 +147,6 @@
 		0877A384263BCA7900B824CB /* Q1722-orderOfPermutations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q1722-orderOfPermutations.swift"; sourceTree = "<group>"; };
 		0877EE872723E6BC0049CD0D /* Q3986.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q3986.swift; sourceTree = "<group>"; };
 		0877EE892725278F0049CD0D /* Q1992.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q1992.swift; sourceTree = "<group>"; };
-		0879104D28942A5400BBD558 /* Q2914-copyright.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q2914-copyright.swift"; sourceTree = "<group>"; };
-		0879104F2894333000BBD558 /* Q5355-MarsMath.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q5355-MarsMath.swift"; sourceTree = "<group>"; };
-		087910512896451400BBD558 /* Q2935-noise.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q2935-noise.swift"; sourceTree = "<group>"; };
-		0879105328964A3E00BBD558 /* Q1934-leastCommonMultiple.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q1934-leastCommonMultiple.swift"; sourceTree = "<group>"; };
-		087910552896500A00BBD558 /* Q4101-bigger?.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q4101-bigger?.swift"; sourceTree = "<group>"; };
 		08795E922632AD6D00D5817A /* Q15486-retire2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q15486-retire2.swift"; sourceTree = "<group>"; };
 		08795E962632F29E00D5817A /* Q1254-makePalindrome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q1254-makePalindrome.swift"; sourceTree = "<group>"; };
 		08795E9E2633C85C00D5817A /* Q9375-fashionKing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q9375-fashionKing.swift"; sourceTree = "<group>"; };
@@ -201,7 +196,6 @@
 		08A43A6B2643C60F00589BFA /* Q9093.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q9093.swift; sourceTree = "<group>"; };
 		08A4E452262464B8008290CB /* Q2579-climbStairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q2579-climbStairs.swift"; sourceTree = "<group>"; };
 		08A5E3C426576A2A00889F46 /* Q4889.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q4889.swift; sourceTree = "<group>"; };
-		08A698A82892D5EF00D37675 /* Q2530-AIClock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q2530-AIClock.swift"; sourceTree = "<group>"; };
 		08A79FFE26201E890019BD7D /* Heap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Heap.swift; sourceTree = "<group>"; };
 		08A7A00226202B7C0019BD7D /* Q11279-maxHeap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q11279-maxHeap.swift"; sourceTree = "<group>"; };
 		08A7A008262035120019BD7D /* Q1927-minHeap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q1927-minHeap.swift"; sourceTree = "<group>"; };
@@ -218,6 +212,17 @@
 		08B299C127492BD100D17D79 /* Q1259-PalindromeNum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q1259-PalindromeNum.swift"; sourceTree = "<group>"; };
 		08B299C3274930E500D17D79 /* Q11050-BinomialCoefficient1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q11050-BinomialCoefficient1.swift"; sourceTree = "<group>"; };
 		08B2A94C266B57F300F788D0 /* Q14889.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q14889.swift; sourceTree = "<group>"; };
+		08B43BB728965D6200D6091B /* Q4101-bigger?.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Q4101-bigger?.swift"; sourceTree = "<group>"; };
+		08B43BB928965DB900D6091B /* Q2530-AIClock.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Q2530-AIClock.swift"; sourceTree = "<group>"; };
+		08B43BBA28965DB900D6091B /* Q2163-cutChocolate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Q2163-cutChocolate.swift"; sourceTree = "<group>"; };
+		08B43BBB28965DB900D6091B /* Q2914-copyright.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Q2914-copyright.swift"; sourceTree = "<group>"; };
+		08B43BBC28965DB900D6091B /* Q5355-MarsMath.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Q5355-MarsMath.swift"; sourceTree = "<group>"; };
+		08B43BBD28965DB900D6091B /* Q2935-noise.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Q2935-noise.swift"; sourceTree = "<group>"; };
+		08B43BBE28965DB900D6091B /* Q2525-ovenClock.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Q2525-ovenClock.swift"; sourceTree = "<group>"; };
+		08B43BBF28965DB900D6091B /* Q1934-leastCommonMultiple.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Q1934-leastCommonMultiple.swift"; sourceTree = "<group>"; };
+		08B43BC728965DC800D6091B /* Q1789-sumOfNumbers.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Q1789-sumOfNumbers.swift"; sourceTree = "<group>"; };
+		08B43BC928965DE000D6091B /* Q2174-robotSimulation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Q2174-robotSimulation.swift"; sourceTree = "<group>"; };
+		08B43BCB28965E1600D6091B /* Q10156-snack.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Q10156-snack.swift"; sourceTree = "<group>"; };
 		08B72EC826256D4300EDD3C7 /* Q7662-DualPriorityQueue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q7662-DualPriorityQueue.swift"; sourceTree = "<group>"; };
 		08B72ECE2625E2AE00EDD3C7 /* Q11723-Set.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q11723-Set.swift"; sourceTree = "<group>"; };
 		08BA55E8264D520F00F07CA6 /* Queue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Queue.swift; sourceTree = "<group>"; };
@@ -271,9 +276,6 @@
 		08EF2AD125DEA4EA005F44B5 /* Q2606-virus.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q2606-virus.swift"; sourceTree = "<group>"; };
 		08EF6E382608E357001D4420 /* Q10773-zero.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q10773-zero.swift"; sourceTree = "<group>"; };
 		08F74AF4267386EA00941699 /* Q15903.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q15903.swift; sourceTree = "<group>"; };
-		08F9535B28902572004FFF2E /* Q1789-sumOfNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q1789-sumOfNumbers.swift"; sourceTree = "<group>"; };
-		08F9535D28916FF1004FFF2E /* Q2163-cutChocolate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q2163-cutChocolate.swift"; sourceTree = "<group>"; };
-		08F9535F28918084004FFF2E /* Q2525-ovenClock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q2525-ovenClock.swift"; sourceTree = "<group>"; };
 		08FCBF30279859CD009BF770 /* Q1654-CutLANCable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q1654-CutLANCable.swift"; sourceTree = "<group>"; };
 		08FE07482626E81200C232ED /* Q11726-2xnTiling.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q11726-2xnTiling.swift"; sourceTree = "<group>"; };
 		08FE07522627012C00C232ED /* Q18870-CoordCompression.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q18870-CoordCompression.swift"; sourceTree = "<group>"; };
@@ -345,21 +347,22 @@
 				08E521B42546C247000FB0FC /* Q1735_FractionSum.swift */,
 				08E521B92546CD9D000FB0FC /* Q1748_numberConcat.swift */,
 				08E521BF254849E7000FB0FC /* Q3036_ring.swift */,
+				08B43BBF28965DB900D6091B /* Q1934-leastCommonMultiple.swift */,
+				08B43BBA28965DB900D6091B /* Q2163-cutChocolate.swift */,
+				08B43BBE28965DB900D6091B /* Q2525-ovenClock.swift */,
+				08B43BB928965DB900D6091B /* Q2530-AIClock.swift */,
+				08B43BBB28965DB900D6091B /* Q2914-copyright.swift */,
+				08B43BC728965DC800D6091B /* Q1789-sumOfNumbers.swift */,
+				08B43BBD28965DB900D6091B /* Q2935-noise.swift */,
+				08B43BBC28965DB900D6091B /* Q5355-MarsMath.swift */,
 				088EFF622549CC870036AFFD /* Q11047_coin0.swift */,
 				08E521AF254573D9000FB0FC /* Q11653_Factorization.swift */,
 				08DE877C2542C8E2000B568E /* Q9020_Goldbach.swift */,
 				08DE8760254295AB000B568E /* Q2609_GCDLVM.swift */,
+				08B43BCB28965E1600D6091B /* Q10156-snack.swift */,
 				08B299C3274930E500D17D79 /* Q11050-BinomialCoefficient1.swift */,
 				0834480427BA9E410007166E /* Q2407-combination(BInt).swift */,
 				0875A18D27BBEB9E0035BAC8 /* Q1676-numOfFactorial0.swift */,
-				08F9535B28902572004FFF2E /* Q1789-sumOfNumbers.swift */,
-				08F9535D28916FF1004FFF2E /* Q2163-cutChocolate.swift */,
-				08F9535F28918084004FFF2E /* Q2525-ovenClock.swift */,
-				08A698A82892D5EF00D37675 /* Q2530-AIClock.swift */,
-				0879104D28942A5400BBD558 /* Q2914-copyright.swift */,
-				0879104F2894333000BBD558 /* Q5355-MarsMath.swift */,
-				087910512896451400BBD558 /* Q2935-noise.swift */,
-				0879105328964A3E00BBD558 /* Q1934-leastCommonMultiple.swift */,
 			);
 			path = Math;
 			sourceTree = "<group>";
@@ -389,14 +392,15 @@
 		0836024F254BFC4B00AB64B4 /* Implementation */ = {
 			isa = PBXGroup;
 			children = (
-				087910552896500A00BBD558 /* Q4101-bigger?.swift */,
 				08B72ECE2625E2AE00EDD3C7 /* Q11723-Set.swift */,
 				085CAFAA265F643A00D079FF /* Q15683.swift */,
 				08480A58264A4B7C00E8F9FD /* Q21312.swift */,
+				08B43BB728965D6200D6091B /* Q4101-bigger?.swift */,
 				0859CA642631157900BC10F1 /* Q1713-recommandCandidate.swift */,
 				0825089C262F0F38005B48BD /* Q18406-LuckyStrike.swift */,
 				0858BE3926247244001866E1 /* Q5340-AC.swift */,
 				082508A2262F1648005B48BD /* Q3190-Snake.swift */,
+				08B43BC928965DE000D6091B /* Q2174-robotSimulation.swift */,
 				089F214A261B4C1A0026D7F7 /* Q14719-rainWater.swift */,
 				080DDB8B26452761009F9C10 /* Q1032.swift */,
 				08A43A6B2643C60F00589BFA /* Q9093.swift */,
@@ -408,7 +412,6 @@
 				08EF6E382608E357001D4420 /* Q10773-zero.swift */,
 				08DE878625441EBE000B568E /* Q7568_Bulk.swift */,
 				088527712662505400D78822 /* Q1475.swift */,
-				0806D78F2889895900D4FF87 /* Q2174-robotSimulation.swift */,
 				08CEE754266755F700EDD9A6 /* Q13335.swift */,
 				08CEE7552667702E00EDD9A6 /* 14500.swift */,
 				085775962682099E00075965 /* Q10808.swift */,
@@ -478,6 +481,7 @@
 				08CB82F5258B399300AA10BD /* Q1987-alphabet.swift */,
 				084C21BF262C788900567812 /* Q2407-Combination.swift */,
 				084C21C4262C866B00567812 /* Q1325-efficientHacking.swift */,
+				0806D78F2889895900D4FF87 /* Q2174-robotSimulation.swift */,
 			);
 			path = NotSolved;
 			sourceTree = "<group>";
