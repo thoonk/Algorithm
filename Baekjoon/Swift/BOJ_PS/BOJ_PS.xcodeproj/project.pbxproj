@@ -150,6 +150,7 @@
 		0879104D28942A5400BBD558 /* Q2914-copyright.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q2914-copyright.swift"; sourceTree = "<group>"; };
 		0879104F2894333000BBD558 /* Q5355-MarsMath.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q5355-MarsMath.swift"; sourceTree = "<group>"; };
 		087910512896451400BBD558 /* Q2935-noise.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q2935-noise.swift"; sourceTree = "<group>"; };
+		0879105328964A3E00BBD558 /* Q1934-leastCommonMultiple.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q1934-leastCommonMultiple.swift"; sourceTree = "<group>"; };
 		08795E922632AD6D00D5817A /* Q15486-retire2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q15486-retire2.swift"; sourceTree = "<group>"; };
 		08795E962632F29E00D5817A /* Q1254-makePalindrome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q1254-makePalindrome.swift"; sourceTree = "<group>"; };
 		08795E9E2633C85C00D5817A /* Q9375-fashionKing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q9375-fashionKing.swift"; sourceTree = "<group>"; };
@@ -357,6 +358,7 @@
 				0879104D28942A5400BBD558 /* Q2914-copyright.swift */,
 				0879104F2894333000BBD558 /* Q5355-MarsMath.swift */,
 				087910512896451400BBD558 /* Q2935-noise.swift */,
+				0879105328964A3E00BBD558 /* Q1934-leastCommonMultiple.swift */,
 			);
 			path = Math;
 			sourceTree = "<group>";
