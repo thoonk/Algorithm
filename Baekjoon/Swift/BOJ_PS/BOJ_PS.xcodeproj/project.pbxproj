@@ -284,6 +284,7 @@
 		08FE075D2627F9D400C232ED /* Q11286-absHeap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q11286-absHeap.swift"; sourceTree = "<group>"; };
 		08FEEFFE2588F304002738ED /* Q2667-homeNumbering.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q2667-homeNumbering.swift"; sourceTree = "<group>"; };
 		08FEF0032588FB66002738ED /* Q2468-safeArea.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q2468-safeArea.swift"; sourceTree = "<group>"; };
+		6A9855DB28978A7100AC360F /* Q2745-calculationOfGrade.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q2745-calculationOfGrade.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -425,6 +426,7 @@
 				0806D791288BDEEC00D4FF87 /* Q3085-CandyGame.swift */,
 				08B43BD32896615D00D6091B /* Q3009-fourthPoint.swift */,
 				08B43BD528966EB100D6091B /* Q2476-diceGame.swift */,
+				6A9855DB28978A7100AC360F /* Q2745-calculationOfGrade.swift */,
 			);
 			path = Implementation;
 			sourceTree = "<group>";
