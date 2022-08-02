@@ -263,6 +263,8 @@
 		08DE878125440235000B568E /* Q1011_AlphaCentauri.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q1011_AlphaCentauri.swift; sourceTree = "<group>"; };
 		08DE878625441EBE000B568E /* Q7568_Bulk.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q7568_Bulk.swift; sourceTree = "<group>"; };
 		08DF871D258CDDAF008B58D6 /* Q2178-mazeNavigation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q2178-mazeNavigation.swift"; sourceTree = "<group>"; };
+		08E12A0C289940C00096A125 /* Q5063-TGN.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q5063-TGN.swift"; sourceTree = "<group>"; };
+		08E12A0E2899435E0096A125 /* Q10102-ballot_counting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q10102-ballot_counting.swift"; sourceTree = "<group>"; };
 		08E4AD93257CAD6A00AB5858 /* Q14888-embedeOperator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q14888-embedeOperator.swift"; sourceTree = "<group>"; };
 		08E4AD99257CC54E00AB5858 /* Q18428-avoidSurveilance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q18428-avoidSurveilance.swift"; sourceTree = "<group>"; };
 		08E4ADA2257CFC2400AB5858 /* Q16234-populationMovement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = "Q16234-populationMovement.swift"; path = "BOJ_PS/DFS-BFS/Q16234-populationMovement.swift"; sourceTree = SOURCE_ROOT; };
@@ -303,6 +305,7 @@
 			isa = PBXGroup;
 			children = (
 				080911B228523F2B00EB731E /* Q5525-IOIOI.swift */,
+				08E12A0E2899435E0096A125 /* Q10102-ballot_counting.swift */,
 			);
 			path = String;
 			sourceTree = "<group>";
@@ -366,6 +369,7 @@
 				08B299C3274930E500D17D79 /* Q11050-BinomialCoefficient1.swift */,
 				0834480427BA9E410007166E /* Q2407-combination(BInt).swift */,
 				0875A18D27BBEB9E0035BAC8 /* Q1676-numOfFactorial0.swift */,
+				08E12A0C289940C00096A125 /* Q5063-TGN.swift */,
 			);
 			path = Math;
 			sourceTree = "<group>";
