@@ -30,6 +30,7 @@
 		0806D791288BDEEC00D4FF87 /* Q3085-CandyGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q3085-CandyGame.swift"; sourceTree = "<group>"; };
 		0808EB1726A9A6050097DD56 /* Q1182.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q1182.swift; sourceTree = "<group>"; };
 		0808FA8C28A3E2940033BFA7 /* Q10886-0=notcute:1=cute.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q10886-0=notcute:1=cute.swift"; sourceTree = "<group>"; };
+		0808FA8E28A3EAB30033BFA7 /* Q10988-checkPalindrome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q10988-checkPalindrome.swift"; sourceTree = "<group>"; };
 		080911B228523F2B00EB731E /* Q5525-IOIOI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q5525-IOIOI.swift"; sourceTree = "<group>"; };
 		0809579B2669054D0020E527 /* Q1431.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q1431.swift; sourceTree = "<group>"; };
 		080DDB8926450DA5009F9C10 /* Q2156.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q2156.swift; sourceTree = "<group>"; };
@@ -435,6 +436,7 @@
 				6A9855DB28978A7100AC360F /* Q2745-calculationOfGrade.swift */,
 				6A9855DD28978D4500AC360F /* Q7567-dishes.swift */,
 				0808FA8C28A3E2940033BFA7 /* Q10886-0=notcute:1=cute.swift */,
+				0808FA8E28A3EAB30033BFA7 /* Q10988-checkPalindrome.swift */,
 			);
 			path = Implementation;
 			sourceTree = "<group>";
