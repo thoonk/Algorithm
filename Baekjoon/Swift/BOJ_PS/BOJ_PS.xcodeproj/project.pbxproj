@@ -31,6 +31,7 @@
 		0808EB1726A9A6050097DD56 /* Q1182.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q1182.swift; sourceTree = "<group>"; };
 		0808FA8C28A3E2940033BFA7 /* Q10886-0=notcute:1=cute.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q10886-0=notcute:1=cute.swift"; sourceTree = "<group>"; };
 		0808FA8E28A3EAB30033BFA7 /* Q10988-checkPalindrome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q10988-checkPalindrome.swift"; sourceTree = "<group>"; };
+		0808FA8F28AA2A610033BFA7 /* Q5086-multiples&divisors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q5086-multiples&divisors.swift"; sourceTree = "<group>"; };
 		080911B228523F2B00EB731E /* Q5525-IOIOI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q5525-IOIOI.swift"; sourceTree = "<group>"; };
 		0809579B2669054D0020E527 /* Q1431.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q1431.swift; sourceTree = "<group>"; };
 		080DDB8926450DA5009F9C10 /* Q2156.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q2156.swift; sourceTree = "<group>"; };
@@ -372,6 +373,7 @@
 				0834480427BA9E410007166E /* Q2407-combination(BInt).swift */,
 				0875A18D27BBEB9E0035BAC8 /* Q1676-numOfFactorial0.swift */,
 				08E12A0C289940C00096A125 /* Q5063-TGN.swift */,
+				0808FA8F28AA2A610033BFA7 /* Q5086-multiples&divisors.swift */,
 			);
 			path = Math;
 			sourceTree = "<group>";
