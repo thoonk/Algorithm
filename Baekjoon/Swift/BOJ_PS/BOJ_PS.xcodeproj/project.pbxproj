@@ -33,6 +33,7 @@
 		0808FA8E28A3EAB30033BFA7 /* Q10988-checkPalindrome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q10988-checkPalindrome.swift"; sourceTree = "<group>"; };
 		0808FA8F28AA2A610033BFA7 /* Q5086-multiples&divisors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q5086-multiples&divisors.swift"; sourceTree = "<group>"; };
 		0808FA9128AA2B9E0033BFA7 /* Q5717-sanggeun'sFriend.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q5717-sanggeun'sFriend.swift"; sourceTree = "<group>"; };
+		0808FA9228AA2F300033BFA7 /* Q9610-quadrant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q9610-quadrant.swift"; sourceTree = "<group>"; };
 		080911B228523F2B00EB731E /* Q5525-IOIOI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q5525-IOIOI.swift"; sourceTree = "<group>"; };
 		0809579B2669054D0020E527 /* Q1431.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q1431.swift; sourceTree = "<group>"; };
 		080DDB8926450DA5009F9C10 /* Q2156.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q2156.swift; sourceTree = "<group>"; };
@@ -376,6 +377,7 @@
 				08E12A0C289940C00096A125 /* Q5063-TGN.swift */,
 				0808FA8F28AA2A610033BFA7 /* Q5086-multiples&divisors.swift */,
 				0808FA9128AA2B9E0033BFA7 /* Q5717-sanggeun'sFriend.swift */,
+				0808FA9228AA2F300033BFA7 /* Q9610-quadrant.swift */,
 			);
 			path = Math;
 			sourceTree = "<group>";
