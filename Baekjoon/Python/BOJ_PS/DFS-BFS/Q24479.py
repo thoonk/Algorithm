@@ -24,7 +24,7 @@ for _ in range(m):
     graph[v].append(u)
     
 for i in range(n + 1):
-graph[i].sort()
+    graph[i].sort()
 
 dfs(graph, r, visited)
 
