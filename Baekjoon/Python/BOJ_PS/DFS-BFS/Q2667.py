@@ -33,3 +33,51 @@ res.sort()
 print(len(res))
 for i in res:
     print(i)
+
+'''
+# BFS version
+import sys
+from collections import deque
+input = sys.stdin.readline
+
+def bfs(r, c):
+    cnt = 1
+    d = [[-1, 0], [1, 0], [0, -1], [0, 1]]
+    q.append((r, c))
+    visited[r][c] = 1
+
+    while q:
+        r, c = q.popleft()
+        
+        for i in range(4):
+            nr = r + d[i][0]
+            nc = c + d[i][1]
+            
+            if 0 <= nr < n and 0<= nc < n:
+                if graph[nr][nc] == 1 and visited[nr][nc] == 0:
+                    visited[nr][nc] = 1
+                    cnt += 1
+                    q.append((nr, nc))
+                    
+    return cnt
+
+n = int(input())
+graph = []
+for _ in range(n):
+    row = list(map(int, input().rstrip()))
+    graph.append(row)
+
+q = deque()
+visited = [[0 for _ in range(n)] for _ in range(n)] 
+answer = []
+
+for i in range(n):
+    for j in range(n):
+        if graph[i][j] == 1 and visited[i][j] == 0:
+            answer.append(bfs(i, j))
+            
+answer.sort()
+print(len(answer))
+for a in answer:
+    print(a)
+'''
